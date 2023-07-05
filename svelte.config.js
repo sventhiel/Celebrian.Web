@@ -10,9 +10,9 @@ const config = {
 		assets: 'build',
 		fallback: null,
 	  }),
-	//   paths: {
-	// 	base: '/JenaExperiment'
-	// 	}
+	  paths: {
+		base: '/JenaExperiment'
+		}
 	},
   
 	preprocess: vitePreprocess()
